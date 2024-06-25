@@ -1,0 +1,371 @@
+[
+    {
+        "day": "oct3",
+        "timeStart": "8:00",
+        "timeEnd": "8:45",
+        "title": "Breakfast and Registration",
+        "description": "Juices, fresh fruit, cereals, scrambled eggs, home-fried potatoes, bacon, sausage, danishes/muffins, yogurts.",
+        "room": "Trentino",
+        "speakerName": ""
+    },
+    {
+        "day": "oct3",
+        "timeStart": "8:45",
+        "timeEnd": "9:40",
+        "title": "Keynote: Just Your Ordinary Average Programmer - Lessons Learned After 30 Years in Software",
+        "description": "I started writing software in the late 80s and have all the scars and stories to show for it. In this keynote I will regale fanciful tales of software development from the time of Novell Netware and Floppy Disks to the era of cloud computing. You will learn the importance of the acronym ADAID. You will learn how I found myself on a set of a TV Show in London because of being a movie and computer nerd. Come to be entertained, leave inspired. That is the goal.",
+        "room": "Conference Room A",
+        "speakerName": "Rod Paddock"
+    },
+    {
+        "day": "oct3",
+        "timeStart": "9:45",
+        "timeEnd": "10:45",
+        "title": "Connecting the Enterprise, using Azure Integration Service",
+        "description": "Azure Integration Services provides connectivity, messaging and orchestration capabilities that allow you to connect your enterprise and SaaS application. In this session, Kent will share some interesting demos, tips, tricks and highlight opportunities for you and your organization.",
+        "room": "Umbria",
+        "speakerName": "Ken Weare"
+    },
+    {
+        "day": "oct3",
+        "timeStart": "9:45",
+        "timeEnd": "10:45",
+        "title": "Building Event-Driven Microservices",
+        "description": "Event-driven architecture promotes the production, detection, consumption of, and reaction to events which improve app responsiveness to events coming from multiple sources. You'll see how to incorporate event-driven architecture into microservices to develop lightweight services reacting to events.",
+        "room": "Lombardy",
+        "speakerName": "Chad Green"
+    },
+    {
+        "day": "oct3",
+        "timeStart": "9:45",
+        "timeEnd": "10:45",
+        "title": "Functional Web Apps - The Revenge of Dynamic Web Apps",
+        "description": "Functional Web Apps are built with pure cloud functions, deploy quickly and reliably. No more slow builds. No more trading off a dynamic end-user experience by pre-rendering spinners. Build markup on the fly, leveraging the power and simplicity of the ultimate building block: pure cloud functions.",
+        "room": "Tuscany",
+        "speakerName": "Simon MacDonald"
+    },
+    {
+        "day": "oct3",
+        "timeStart": "9:45",
+        "timeEnd": "10:45",
+        "title": "What is Accessibility and Why Does it Matter?",
+        "description": "Accessibility should be fundamental to the development process, but it isn't. Most dev/designer/PMs haven't even heard about it, let alone understand what it actually means. I will give a basic intro + next steps so people can introduce a11y & inclusive design into their own companies/workflows.",
+        "room": "Campania",
+        "speakerName": "Ashleigh Lodge"
+    },
+    {
+        "day": "oct3",
+        "timeStart": "11:00",
+        "timeEnd": "12:00",
+        "title": "At The Helm of Kubernetes: Repeatable Infrastructure Creation for Mere Mortals",
+        "description": "There's a lot of duplication in Kubernetes yaml files. Can we make them DRY? Let's look at Helm, a tool both for templating k8s yaml files and for installing complex infrastructure dependencies as one package. Join us on this path to a simpler, more repeatable, and more discoverable yaml experience.",
+        "room": "Verdi",
+        "speakerName": "Rob Richardson"
+    },
+    {
+        "day": "oct3",
+        "timeStart": "11:00",
+        "timeEnd": "12:00",
+        "title": "In the Event of Performance Issues",
+        "description": "Hear the story of this first time founder addressing scaling and performance issues with an event-based systems using Queues.",
+        "room": "Lombardy",
+        "speakerName": "David Crossman"
+    },
+    {
+        "day": "oct3",
+        "timeStart": "11:00",
+        "timeEnd": "12:00",
+        "title": "What's new in MongoDB",
+        "description": "Most software developers think of version 3.6 when they think about MongoDB. However, now at version 6, it is a completely different product. This talk shows the newest features that make developer's life easier.",
+        "room": "Tuscany",
+        "speakerName": "Joel Lord"
+    },
+    {
+        "day": "oct3",
+        "timeStart": "11:00",
+        "timeEnd": "12:00",
+        "title": "Optimizing Interaction to Next Paint (INP)",
+        "description": "INP is an experimental metric that assesses how fast a page responds to user input across the entire page lifecycle. This talk describes how INP works, and how to optimize for it",
+        "room": "Campania",
+        "speakerName": "Jeremy Wagner"
+    },
+    {
+        "day": "oct3",
+        "timeStart": "12:00",
+        "timeEnd": "1:00",
+        "title": "Lunch",
+        "description": "Mediterranean Buffet: pita, hummus/tzatziki, Greek salad, couscous salad, rice, chicken souvlaki, wine poached cod, pesto tossed steamed vegetables, dessert squares and fresh fruit.",
+        "room": "Trentino",
+        "speakerName": ""
+    },
+    {
+        "day": "oct3",
+        "timeStart": "1:00",
+        "timeEnd": "2:00",
+        "title": "Not ready for Kubernetes? No Problem. Here Are Some Alternatives for Your Containers.",
+        "description": "Containerization is an important first step in the cloud native journey. However, not every team is ready to use Kubernetes, as it requires considerable resources and training. Thankfully, there are great alternatives that will keep you on the right track and help take your org to the next level.",
+        "room": "Verdi",
+        "speakerName": "Ricardo Covo"
+    },
+    {
+        "day": "oct3",
+        "timeStart": "1:00",
+        "timeEnd": "2:00",
+        "title": "In-Depth .NET - Top 10 Most Common Web App Security Vulnerabilities",
+        "description": "You have security vulnerabilities in your .NET production code! Hackers seek out attack vectors that succeed; donâ€™t get caught with a common vulnerability in your code. Take steps to protect your code by understanding the most common web application security vulnerabilities in the wild today.",
+        "room": "Lombardy",
+        "speakerName": "Cameron McKay"
+    },
+    {
+        "day": "oct3",
+        "timeStart": "1:00",
+        "timeEnd": "2:00",
+        "title": "Compelling Code Reuse in the Enterprise",
+        "description": "That boilerplate code you use to bring every new microservice online is going to need a change. Instead of adhering to the mandated myth to 'share nothing' in microservices, build-out 'Service Templates' for reusable code with appropriate coupling and killer adaptability.",
+        "room": "Tuscany",
+        "speakerName": "Travis Gosselin"
+    },
+    {
+        "day": "oct3",
+        "timeStart": "1:00",
+        "timeEnd": "2:00",
+        "title": "Session #H: Naming Things",
+        "description": "Phil Karlton said 'There are only two hard things in Computer Science: cache invalidation and naming things.' This session explores naming things. What makes naming things in computer science hard and what are some tried-and-true solutions to naming things like classes, namespaces, properties, services, APIs, etc",
+        "room": "Campania",
+        "speakerName": "Peter Ritchie"
+    },
+    {
+        "day": "oct3",
+        "timeStart": "2:15",
+        "timeEnd": "3:15",
+        "title": "Still Trying to Unlock Developer Velocity?",
+        "description": "Are you or your client stuck in a rut and their cloud adoption is low? Using the Developer Velocity Assessment, you can create a path forward which will increase developer velocity and accelerating delivered value. Using this assessment you can see where you or your clients stands amongst their peers, and also create a repeatable process to measure the upskilling plan. This also creates a easy way to introduce the Developer Support program which can be a ace in your deck to creating organizational change.",
+        "room": "Verdi",
+        "speakerName": "AJ Enns"
+    },
+    {
+        "day": "oct3",
+        "timeStart": "2:15",
+        "timeEnd": "3:15",
+        "title": "Get started with Azure Container Apps",
+        "description": "Do you want to modernize your app ecosystem to a microservices architecture, but AKS seems too complex, and App Services are lacking features? Then look no further, Azure Container Apps is the perfect balance between simplicity and feature set. This session will get you get started on this journey.",
+        "room": "Lombardy",
+        "speakerName": "Alex Drenea"
+    },
+    {
+        "day": "oct3",
+        "timeStart": "2:15",
+        "timeEnd": "3:15",
+        "title": "How Gradual Type Systems are Saving Our Bacon",
+        "description": "Gradual type systems allow for slowly adding types to existing dynamic code bases such as JavaScript and Ruby applications without abandoning the velocity and flexibility that made those language desirable in the first place. We'll cover how to add types to Ruby, Python and JavaScript code bases.",
+        "room": "Tuscany",
+        "speakerName": "Simon Timms"
+    },
+    {
+        "day": "oct3",
+        "timeStart": "2:15",
+        "timeEnd": "3:15",
+        "title": "Is it Finally Time to Think About Flutter?",
+        "description": "Flutter, a framework maintained by Google and similar to React Native, proposes to be the future of declarative programming. Target platforms include Linux, Windows, macOS as well as Android and iOS. Let's take a brief deep-dive on this framework and how it operates.",
+        "room": "Campania",
+        "speakerName": "James Robert Perih"
+    },
+    {
+        "day": "oct3",
+        "timeStart": "3:30",
+        "timeEnd": "4:30",
+        "title": "Building Modern, Hybrid Web Apps For Any Device with Blazor and .NET MAUI (Multi-platform App UI)",
+        "description": "In this session I will talk about the frameworks that you can use to create powerful, native desktop and mobile apps for Windows, macOS, iOS, and Android from a single codebase. I will also show you how to enhance your Blazor web apps with native device capabilities!",
+        "room": "Verdi",
+        "speakerName": "Tyler Doerksen"
+    },
+    {
+        "day": "oct3",
+        "timeStart": "3:30",
+        "timeEnd": "4:30",
+        "title": "Consensus in the Chaos: The Role of IT Architecture",
+        "description": "This session explains the weird and bizarre world of IT architecture. You will learn about the role an IT Architect and they work together navigate the enterprise to achieve the impossible of creating consistency across multiple business units with different goals.",
+        "room": "Lombardy",
+        "speakerName": "David Wesst,Terry Bunio"
+    },
+    {
+        "day": "oct3",
+        "timeStart": "3:30",
+        "timeEnd": "4:30",
+        "title": "Enterprise Svelte",
+        "description": "'Svelte is the lean JavaScript framework for building 'Cybernetically enhanced web apps' where the framework is compiled away, leaving only the bare essential JS needed to keep your app working as expected. But can it scale to use in enterprise applications? The answer is Yes ...and it's fabulous.'",
+        "room": "Tuscany",
+        "speakerName": "Adam L. Barrett"
+    },
+    {
+        "day": "oct4",
+        "timeStart": "8:30",
+        "timeEnd": "9:45",
+        "title": "Breakfast",
+        "description": "Juices, fresh fruit, cereals, scrambled eggs, home-fried potatoes, bacon, sausage, danishes/muffins, yogurts.",
+        "room": "Trentino",
+        "speakerName": ""
+    },
+    {
+        "day": "oct4",
+        "timeStart": "9:45",
+        "timeEnd": "10:45",
+        "title": "From Custom COTS to Cloud: A Case Study in Solution Architecture",
+        "description": "They said it was impossible. They said it couldn't be done. They said they would never move our customized commercial off the shelf (COTS) application and move it into the cloud. They were not a Solution Architect. Learn what it takes to do the impossible and modernize your COTS development.",
+        "room": "Verdi",
+        "speakerName": "David Wesst,Terry Bunio"
+    },
+    {
+        "day": "oct4",
+        "timeStart": "9:45",
+        "timeEnd": "10:45",
+        "title": "Introduction to Snowflake",
+        "description": "Cloud computing is here to stay and one of the most interesting companies to come to the forefront of cloud databases is known as Snowflake. In this session you will learn the basics of Snowflake. You will learn how Snowflake separates the concepts of storage and compute to create powerful database solutions. This session will cover bulk loading data into Snowflake, querying data from Snowflake and finally you will learn about the holy grail of Snowflake: database sharing. The most unique aspect of Snowflake is the ability to share data securely across the internet.",
+        "room": "Lombardy",
+        "speakerName": "Rod Paddock"
+    },
+    {
+        "day": "oct4",
+        "timeStart": "9:45",
+        "timeEnd": "10:45",
+        "title": "Release functionality using Feature Management in Microsoft Azure (.NET)",
+        "description": "Have you ever wondered how to implement subscription tiers; or perform alpha and beta testing in production; or introduce a high-risk feature to a small subset of users? This presentation walks through using Microsoft Azure to support all these scenarios in your .NET Web Application.",
+        "room": "Tuscany",
+        "speakerName": "Cameron McKay"
+    },
+    {
+        "day": "oct4",
+        "timeStart": "9:45",
+        "timeEnd": "10:45",
+        "title": "Serverless Everything!",
+        "description": "Forget about infrastructure and boost your productivity with serverless. The next evolution of the cloud is here! Frontends, backends, messaging and even databases are now offered as serverless services that can enable rapid, powerful development, with built-in resiliency and scalability.",
+        "room": "Campania",
+        "speakerName": "Ricardo Covo"
+    },
+    {
+        "day": "oct4",
+        "timeStart": "11:00",
+        "timeEnd": "12:00",
+        "title": "Solving Common Web Component Problems with Server Side Rendering",
+        "description": "Web Components are excellent for building framework-agnostic reusable elements that can be shared publicly or reused across multiple projects. However, developers run into many issues which I will show you workarounds for in this talk.",
+        "room": "Verdi",
+        "speakerName": "Simon MacDonald"
+    },
+    {
+        "day": "oct4",
+        "timeStart": "11:00",
+        "timeEnd": "12:00",
+        "title": "Level-up Your DevOps with GitHub Actions and Kubernetes",
+        "description": "Are you looking to rapidly deploy your content? Are Docker containers in your future? Come for this demo-only presentation where we start from scratch, build up a DevOps pipeline with GitHub Actions, and deploy to Kubernetes. Once setup, commit, and watch the magic flow into place.",
+        "room": "Lombardy",
+        "speakerName": "Rob Richardson"
+    },
+    {
+        "day": "oct4",
+        "timeStart": "11:00",
+        "timeEnd": "12:00",
+        "title": "Patterns and Practices for Refactoring Legacy Code",
+        "description": "Anecdotally, code handling business-critical functionality is arguably the most likely to become legacy code. How can we tackle essential complexity while minimizing accidental complexity and business risk? By using patterns and practices outlined in this talk!",
+        "room": "Tuscany",
+        "speakerName": "Ryan Marcotte"
+    },
+    {
+        "day": "oct4",
+        "timeStart": "11:00",
+        "timeEnd": "12:00",
+        "title": "Data Metamorphosis With KafkaJS",
+        "description": "As you enter the world of microservices, you will need a way to have easy communication across your containers. In this talk, the attendees will learn how to use Kafka in the context of a JavaScript microservices architecture.",
+        "room": "Campania",
+        "speakerName": "Joel Lord"
+    },
+    {
+        "day": "oct4",
+        "timeStart": "12:00",
+        "timeEnd": "1:00",
+        "title": "Lunch",
+        "description": "Italian Buffet: garlic bread, mixed green and Ceasar salads, penne alfredo with grilled chicken, vegetarian lasagna, dessert squares and fresh fruit.",
+        "room": "Trentino",
+        "speakerName": ""
+    },
+    {
+        "day": "oct4",
+        "timeStart": "1:00",
+        "timeEnd": "2:00",
+        "title": "The Worst RESTful API Design Ever",
+        "description": "In this talk we'll attempt to build on the collective mistakes of dozens of different APIs to design the worst most unusable API possible. Once you've seen all the mistakes we could have made you'll know how to avoid them in future and build a legitimately good API.",
+        "room": "Verdi",
+        "speakerName": "Simon Timms"
+    },
+    {
+        "day": "oct4",
+        "timeStart": "1:00",
+        "timeEnd": "2:00",
+        "title": "Getting the Most Out of Your Azure Cosmos DB Databases",
+        "description": "Are you using Cosmos DB today or plan to use it in the near future? This session is for you! I will cover the latest features announced this year, as well as dive into topics that, while advanced, are simple to understand and will help you get the most out of your Cosmos DB experience.",
+        "room": "Lombardy",
+        "speakerName": "Alex Drenea"
+    },
+    {
+        "day": "oct4",
+        "timeStart": "1:00",
+        "timeEnd": "2:00",
+        "title": "Secrets of Conflict Resolution",
+        "description": "Conflict within your team is inevitable. Come and lear how learn ways to deal with this conflict so it doesn't tear apart your team.",
+        "room": "",
+        "speakerName": "Chad Green"
+    },
+    {
+        "day": "oct4",
+        "timeStart": "2:15",
+        "timeEnd": "3:15",
+        "title": "Containers In The Azure Cloud",
+        "description": "At this point there are many public cloud services utilizing container technology in some way. In this talk we will go through different cloud service patterns including managed container orchestrators (Kubernetes), container-based platforms, and now including the now GA Azure Container Apps!",
+        "room": "Verdi",
+        "speakerName": "Tyler Doerksen"
+    },
+    {
+        "day": "oct4",
+        "timeStart": "2:15",
+        "timeEnd": "3:15",
+        "title": "Easy Accessibility Wins: Better Accessibility in Five Minutes or Less",
+        "description": "Once people are aware of a11y, the biggest roadblock to better web a11y is lack of knowledge & orgs unwilling to dedicate time to it w/o a solid business case. This talk covers both bases, showing devs/designers what they can do and how to keep it off their org's radar so they're not reprimanded.",
+        "room": "Lombardy",
+        "speakerName": "Ashleigh Lodge"
+    },
+    {
+        "day": "oct4",
+        "timeStart": "2:15",
+        "timeEnd": "3:15",
+        "title": "Designing for Global Scale with a Small Team",
+        "description": "Planning to take on the world? There's going to be a lot of bumps in the road on the way; so why not learn a bit about some of the tools that are available to help leapfrog your design and development so that you can plan for serving a global market without requiring a global team.",
+        "room": "Tuscany",
+        "speakerName": "Luke Towers"
+    },
+    {
+        "day": "oct4",
+        "timeStart": "3:30",
+        "timeEnd": "4:30",
+        "title": "Unleashing Deploy Velocity with Feature Flags",
+        "description": "A lot of development teams have built out fully automated CI/CD pipelines to deliver code to production fast! Then you quickly discover that the new bottleneck in delivering features is their existence in long-lived feature branches and no true CI is actually happening. This problem compounds as you start spinning up microservices and building features across your multi-repo architecture and coordinating some ultra-fancy release schedule so it all deploys together. Feature flags provide you the mechanism to reclaim control of the release of your features and get back to short-lived branches with true CI. However, what your not told about feature flags in those simple “if/else” getting started demos is that there is an upfront cost to your development time, additional complexities and some pitfalls to be careful of as you begin expanding feature flag usage to the organization. If you know how to navigate these complexities you will start to unleash true velocity across your teams.\nIn this talk, we’ll get started with some of the feature flagging basics before quickly moving into some practical feature flagging examples that demonstrate its usage beyond the basic scenarios as we talk about UI, API, operations, migrations, and experimentation. We will explore some of the hard questions around “architecting feature flags” for your organization.",
+        "room": "Verdi",
+        "speakerName": "Travis Gosselin"
+    },
+    {
+        "day": "oct4",
+        "timeStart": "3:30",
+        "timeEnd": "4:30",
+        "title": "Welcome to Angular Internationalization (i18n)!",
+        "description": "This talk uses Angular Internationalization to make three different websites act as the presentation slides. The sites/slides show the capacity of the Angular I18n library by re-making small apps in American English, Canadian English And Canadian French. Lots of jokes on linguistic differences.",
+        "room": "Lombardy",
+        "speakerName": "Alexander Wiebe"
+    },
+    {
+        "day": "oct4",
+        "timeStart": "3:30",
+        "timeEnd": "4:30",
+        "title": "Introduction to Cypress Testing Framework",
+        "description": "Still haven't picked a testing framework? We'll cover what Cypress can do for you and how to get started adding it to your project. Then we'll go over the basics of writing and running your tests, how configure for multiple environments, some best practices and some other tips and tricks.",
+        "room": "Tuscany",
+        "speakerName": "Frode Aarebrot"
+    }
+]

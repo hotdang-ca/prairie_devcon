@@ -1,0 +1,153 @@
+[
+    {
+        "name": "Adam L Barrett",
+        "description": "Adam L Barrett is a JavaScript Consultant / Developer with a love for front-end and the mobile web. His job is helping developers improve their JavaSc",
+        "location": "Regina, SK",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/adambarrett.jpg"
+    },
+    {
+        "name": "AJ Enns",
+        "description": "AJ is a Developer Advocate at Microsoft and a seasoned DevOps and Agile practitioner. He runs a program called Developer Support for clients across Canada focussing on increasing developer velocity for organizations who have development teams",
+        "location": "Winnipeg, MB",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/ajenns.jpg"
+    },
+    {
+        "name": "Alex Drenea",
+        "description": "Well-rounded Solution Architect with over 10 years of hands-on experience in all areas of Software Development Lifecycle (Back-end, Cloud, Database, D",
+        "location": "Toronto, ON",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/AlexDrenea.png"
+    },
+    {
+        "name": "Alexander Wiebe",
+        "description": "\"AJ is so good at development that sometimes I wonder if he is a terminator sent back in time by skynet to make the war a fair fight\" Geremy Lague 2018 Alexander Wiebe AKA AJ was born on January 12, \"1987\" with a programmable calculator in one hand and a solved rubik's cube in the other. With roots in QBasic he's been coding ever since. Born and raised in the prairies AJ is a local grad from U of R. While he loves his wife and daughter; JavaScript is his passion. AJ's experience involves N-Tier Enterprise apps, rewriting a rowing machine's driver in typescript, and everything in between.",
+        "location": "Toronto, ON",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/AlexanderWiebe.jpg"
+    },
+    {
+        "name": "Ashleigh Lodge",
+        "description": "Ashleigh is the Leader of the Product Team at Neovation Learning Solutions in Winnipeg, Manitoba, Canada. She manages a team of over 30 developers, UX",
+        "location": "Winnipeg, MB",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/AshleighLodge.jpg"
+    },
+    {
+        "name": "Cameron McKay",
+        "description": "Cameron McKay is a Microsoft certified Cloud Developer/Architect with a background in web technology and business analysis; he has blended his experti",
+        "location": "Winnipeg, MB",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/CameronMcKay.jpg"
+    },
+    {
+        "name": "Chad Green",
+        "description": "Chad Green is a manager, software development, architect, community leader, Microsoft MVP, and most importantly a father and husband. Over his career...",
+        "location": "Louisville, KY",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/ChadGreen.jpg"
+    },
+    {
+        "name": "David Crossman",
+        "description": "Founder, Explorer, Lame Jokester. I am passionate about building impactful products. I lead efforts at both [HackRegina](www.hackregina.com) and ...",
+        "location": "Regina, SK",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/DavidCrossman.jpg"
+    },
+    {
+        "name": "David Wesst",
+        "description": "David Wesst, otherwise known as â€œWesstyâ€ or â€œDWâ€, is a Web Platform developer working as an enterprise software architect, defining technology",
+        "location": "Winnipeg, MB",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/DavidWesst.jpeg"
+    },
+    {
+        "name": "Frode Aarebrot",
+        "description": "Frode is a Angular and .NET Core full-stack developer and has 15 years of development experience. He's built a wide range of software using a plethora",
+        "location": "Regina, SK",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/FrodeAarebrot.jpg"
+    },
+    {
+        "name": "James Robert Perih",
+        "description": "ames Robert Perih has been a full-stack software developer for over 20 years, leading teams in various startups including Ski",
+        "location": "Regina, SK",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/JamesRobertPerih.jpeg"
+    },
+    {
+        "name": "Jeremy Wagner",
+        "description": "Jeremy Wagner is more of a writer than a web developer, but he does both anyway. On top of making websites for longer than he thought probable, he has",
+        "location": "Lakeville, MN",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/JeremyWagner.jpg"
+
+    },
+    {
+        "name": "Joel Lord",
+        "description": "Joel Lord (@joel__lord on Twitter) is passionate about the web and technology in general. He likes to learn new things, but most of all, he wants to s",
+        "location": "Ottawa, ON",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/JoelLord.jpg"
+    },
+    {
+        "name": "Kent Weare",
+        "description": "Kent Weare is a Principal Product Manager on the Azure Logic Apps team at Microsoft. His focus on the team is driving the Enterprise Integration Strat",
+        "location": "",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/KentWeare.jpg"
+    },
+    {
+        "name": "Luke Towers",
+        "description": "Luke Towers is the Lead Maintainer for Winter CMS, the popular open source content management framework built in PHP using the Laravel framework. He h",
+        "location": "Regina, SK",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/LukeTowers.png"
+    },
+    {
+        "name": "Peter Ritchie",
+        "description": "Peter Ritchie is in his third decade in the software industry. Peter has a track record of successful platform and solution architecture and delivery",
+        "location": "",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/PeterRitchie.jpeg"
+    },
+    {
+        "name": "Ricardo Covo",
+        "description": "Seasoned professional with more than 20 years of experience in software development and have worked as a developer, architect, and agile coach. I love helping others",
+        "location": "",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/RicardoCovo.png"
+    },
+    {
+        "name": "Rob Richardson",
+        "description": "Rob Richardson is a software craftsman building web properties in ASP.NET and Node, React and Vue. Heâ€™s a Microsoft MVP, published author, frequent",
+        "location": "Phoenix, AZ",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/RobRichardson.png"
+    },
+    {
+        "name": "Rod Paddock",
+        "description": "Rod Paddock is the founder of Dash Point Software, Inc. a boutique software development firm, specializing in high-quality custom software solutions.",
+        "location": "Austin, TX",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/RodPaddock.jpg"
+    },
+    {
+        "name": "Ryan Marcotte",
+        "description": "I have been programming for 20 years, a little over half of which have been as a professional. My work-related passions include a curiosity for what",
+        "location": "",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/RyanMarcotte.jpg"
+    },
+    {
+        "name": "Simon MacDonald",
+        "description": "Simon has over twenty years of development experience and has worked on various projects, including object-oriented databases, police communication sy",
+        "location": "Ottawa, ON",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/SimonMacDonald.jpeg"
+    },
+    {
+        "name": "Simon Timms",
+        "description": "Simon is a polyglot developer who has worked on everything from serial port drivers on an Android tablet, to NServiceBus, to processing tens of thousa",
+        "location": "Calgary, AB",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/SimonTimms.jpeg"
+    },
+    {
+        "name": "Terry Bunio",
+        "description": "Terry has worked in Information Technology for over 30 years in a variety of roles that started with being a Software Developer and DBA before being drafted as a Project Manager. Terry has worked in traditional and agile workplaces and can be found wandering the halls talking about right-sizing and brutal visibility.",
+        "location": "Winnipeg, MB",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/TerryBunio.jpg"
+    },
+    {
+        "name": "Travis Gosselin",
+        "description": "Travis is an accomplished software developer, architect, and periodic speaker. A tech enthusiast and blogger, Travis finds his niche in architecting a",
+        "location": "Toronto, ON",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/TravisGosselin.jpg"
+    },
+    {
+        "name": "Tyler Doerksen",
+        "description": "\"Hello, I'm Tyler Doerksen, a local Winnipegger and Cloud Solution Architect for Microsoft Canada. I work with companies in Western Canada to help the\"",
+        "location": "Winnipeg, MB",
+        "image": "https://www.prairiedevcon.com/assets/images/speakers/TylerDoerksen.jpg"
+    }    
+]
