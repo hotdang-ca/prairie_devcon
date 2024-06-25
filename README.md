@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Created from scratch LIVE at Prairie DevCon as part of the "Flutter & You" talk by James Perih <james@fourandahalfgiraffes.ca>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
