@@ -4,6 +4,8 @@ A new Flutter project.
 
 Created from scratch LIVE at Prairie DevCon Regina 2022 as part of the "Is it Finally Time To Think About Flutter" talk by James Perih <james@fourandahalfgiraffes.ca>
 
+![screenshot](./screenshot.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
